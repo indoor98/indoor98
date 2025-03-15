@@ -1,4 +1,4 @@
-# <div align="center"> ✨ Indoor's GitHub ✨ </div>
+# <div align="center"> Indoor's GitHub </div>
 
 ### <div align="center"> 🛠 Skills 🛠 </div>
 
