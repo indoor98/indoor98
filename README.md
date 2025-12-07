@@ -46,8 +46,6 @@
 <div align="center">
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=gmreksskan1)](https://solved.ac/profile/gmreksskan1)
-<img src="https://github-readme-stats.vercel.app/api?username=indoor98&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indoor98&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
